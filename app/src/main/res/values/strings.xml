@@ -1,3 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Scripture</string>
+
+    <string name="day1_title">The Story of Creation</string>
+    <string name="day1_description">In the beginning God created the heavens and the earth.</string>
+    <string name="day1_reference">Genesis 1:1</string>
+
+    <string name="day2_title">The Lord is My Shepherd</string>
+    <string name="day2_description">The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures.</string>
+    <string name="day2_reference">Psalm 23:1</string>
+
+    <string name="day3_title">Fearfully and Wonderfully Made</string>
+    <string name="day3_description">For you created my inmost being; you knit me together in my mother\'s womb. I praise you because I am fearfully and wonderfully made.</string>
+    <string name="day3_reference">Psalm 139:13–14</string>
+
+    <string name="day4_title">Be Still and Know</string>
+    <string name="day4_description">Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.</string>
+    <string name="day4_reference">Psalm 46:10</string>
+
+    <string name="day5_title">The Fruit of the Spirit</string>
+    <string name="day5_description">But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self–control.</string>
+    <string name="day5_reference">Galatians 5:22–23</string>
+
+    <string name="day6_title">A New Command</string>
+    <string name="day6_description">A new command I give you: Love one another. As I have loved you, so you must love one another.</string>
+    <string name="day6_reference">John 13:34</string>
+
+    <string name="day7_title">The Armor of God</string>
+    <string name="day7_description">Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground.</string>
+    <string name="day7_reference">Ephesians 6:11</string>
+
+    <string name="day8_title">God\'s Plan</string>
+    <string name="day8_description">For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.</string>
+    <string name="day8_reference">Jeremiah 29:11</string>
+
+    <string name="day9_title">The Lord\'s Prayer</string>
+    <string name="day9_description">Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven.</string>
+    <string name="day9_reference">Matthew 6:9–10</string>
+
+    <string name="day10_title">The Beatitudes</string>
+    <string name="day10_description">Blessed are the poor in spirit, for theirs is the kingdom of heaven.</string>
+    <string name="day10_reference">Matthew 5:3</string>
+
+    <string name="day11_title">The Good Samaritan</string>
+    <string name="day11_description">But a Samaritan, as he traveled, came to where the man was; and when he saw him, he took pity on him.</string>
+    <string name="day11_reference">Luke 10:33</string>
+
+    <string name="day12_title">The Vine and the Branches</string>
+    <string name="day12_description">I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit.</string>
+    <string name="day12_reference">John 15:5</string>
+
+    <string name="day13_title">The Parable of the Sower</string>
+    <string name="day13_description">A farmer went out to sow his seed. As he was scattering the seed, some fell along the path… </string>
+    <string name="day13_reference">Matthew 13:3–8</string>
+
+    <string name="day14_title">Love Never Fails</string>
+    <string name="day14_description">Love is patient, love is kind. It does not envy, it does not boast, it is not proud.</string>
+    <string name="day14_reference">1 Corinthians 13:4</string>
+
+    <string name="day15_title">The Way, the Truth, and the Life</string>
+    <string name="day15_description">Jesus answered, I am the way and the truth and the life. No one comes to the Father except through me.</string>
+    <string name="day15_reference">John 14:6</string>
+
+    <string name="day16_title">The Great Commission</string>
+    <string name="day16_description">Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.</string>
+    <string name="day16_reference">Matthew 28:19</string>
+
+    <string name="day17_title">Trust in the Lord</string>
+    <string name="day17_description">Trust in the Lord with all your heart and lean not on your own understanding.</string>
+    <string name="day17_reference">Proverbs 3:5</string>
+
+    <string name="day18_title">The Prodigal Son</string>
+    <string name="day18_description">My son, the father said, you are always with me, and everything I have is yours.</string>
+    <string name="day18_reference">Luke 15:31</string>
+
+    <string name="day19_title">The Golden Rule</string>
+    <string name="day19_description">So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.</string>
+    <string name="day19_reference">Matthew 7:12</string>
+
+    <string name="day20_title">The Resurrection</string>
+    <string name="day20_description">He is not here; he has risen! Remember how he told you, while he was still with you in Galilee…</string>
+    <string name="day20_reference">Luke 24:6</string>
+
+    <string name="day21_title">Light of the World</string>
+    <string name="day21_description">You are the light of the world. A city on a hill cannot be hidden.</string>
+    <string name="day21_reference">Matthew 5:14</string>
+
+    <string name="day22_title">God\'s Faithfulness</string>
+    <string name="day22_description">The Lord is faithful to all his promises and loving toward all he has made.</string>
+    <string name="day22_reference">Psalm 145:13</string>
+
+    <string name="day23_title">The Holy Spirit</string>
+    <string name="day23_description">But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things.</string>
+    <string name="day23_reference">John 14:26</string>
+
+    <string name="day24_title">The Greatest Commandment</string>
+    <string name="day24_description">Love the Lord your God with all your heart and with all your soul and with all your mind.</string>
+    <string name="day24_reference">Matthew 22:37</string>
+
+    <string name="day25_title">Forgiveness</string>
+    <string name="day25_description">For if you forgive other people when they sin against you, your heavenly Father will also forgive you.</string>
+    <string name="day25_reference">Matthew 6:14</string>
+
+    <string name="day26_title">The New Heaven and Earth</string>
+    <string name="day26_description">Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away.</string>
+    <string name="day26_reference">Revelation 21:1</string>
+
+    <string name="day27_title">The Good Shepherd</string>
+    <string name="day27_description">I am the good shepherd. The good shepherd lays down his life for the sheep.</string>
+    <string name="day27_reference">John 10:11</string>
+
+    <string name="day28_title">The Road to Emmaus</string>
+    <string name="day28_description">They asked each other, Were not our hearts burning within us while he talked with us on the road…</string>
+    <string name="day28_reference">Luke 24:32</string>
+
+    <string name="day29_title">The Power of Prayer</string>
+    <string name="day29_description">Therefore confess your sins to each other and pray for each other so that you may be healed.</string>
+    <string name="day29_reference">James 5:16</string>
+
+    <string name="day30_title">God\'s Love</string>
+    <string name="day30_description">For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.</string>
+    <string name="day30_reference">John 3:16</string>
 </resources>
