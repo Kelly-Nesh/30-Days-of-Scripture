@@ -15,7 +15,7 @@ import top.leetech.scripture.R
 
 // Define custom shapes
 val Shapes = Shapes(
-    extraLarge = RoundedCornerShape(16.dp) // Corresponds to rounded-2xl
+    medium = RoundedCornerShape(16.dp)
 )
 
 // Define the custom font families
@@ -53,7 +53,7 @@ val ScriptureTypography = Typography(
         fontWeight = FontWeight.Bold,
         fontSize = 14.sp,
         color = PrimaryColor,
-        letterSpacing = 0.05.sp // wider
+//        letterSpacing = 0.05.sp // wider
     ),
     // Card: Title (h2)
     headlineSmall = TextStyle(

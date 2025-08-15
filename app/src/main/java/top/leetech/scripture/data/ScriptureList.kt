@@ -6,180 +6,210 @@ import top.leetech.scripture.model.Scripture
 object ScriptureList {
     val scriptures = listOf<Scripture>(
         Scripture(
+            1,
             R.string.day1_title,
             R.string.day1_description,
             R.string.day1_reference,
             R.drawable.day1_earth
         ),
         Scripture(
+            2,
             R.string.day2_title,
             R.string.day2_description,
             R.string.day2_reference,
             R.drawable.day2_shepherd
         ),
         Scripture(
+            3,
             R.string.day3_title,
             R.string.day3_description,
             R.string.day3_reference,
             R.drawable.day3_child_reading
         ),
         Scripture(
+            4,
             R.string.day4_title,
             R.string.day4_description,
             R.string.day4_reference,
             R.drawable.day4_open_3_4
         ),
         Scripture(
+            5,
             R.string.day5_title,
             R.string.day5_description,
             R.string.day5_reference,
             R.drawable.day5_fruit
         ),
         Scripture(
+            6,
             R.string.day6_title,
             R.string.day6_description,
             R.string.day6_reference,
             R.drawable.day6_open_forest
         ),
         Scripture(
+            7,
             R.string.day7_title,
             R.string.day7_description,
             R.string.day7_reference,
             R.drawable.day7_armour
         ),
         Scripture(
+            8,
             R.string.day8_title,
             R.string.day8_description,
             R.string.day8_reference,
             R.drawable.day8_plan
         ),
         Scripture(
+            9,
             R.string.day9_title,
             R.string.day9_description,
             R.string.day9_reference,
             R.drawable.day9_pray
         ),
         Scripture(
+            10,
             R.string.day10_title,
             R.string.day10_description,
             R.string.day10_reference,
             R.drawable.day10_open
         ),
         Scripture(
+            11,
             R.string.day11_title,
             R.string.day11_description,
             R.string.day11_reference,
             R.drawable.day11_landscape_cabin
         ),
         Scripture(
+            12,
             R.string.day12_title,
             R.string.day12_description,
             R.string.day12_reference,
             R.drawable.day12_vine
         ),
         Scripture(
+            13,
             R.string.day13_title,
             R.string.day13_description,
             R.string.day13_reference,
             R.drawable.day13_sower
         ),
         Scripture(
+            14,
             R.string.day14_title,
             R.string.day14_description,
             R.string.day14_reference,
             R.drawable.day14_john
         ),
         Scripture(
+            15,
             R.string.day15_title,
             R.string.day15_description,
             R.string.day15_reference,
             R.drawable.day15_one_way
         ),
         Scripture(
+            16,
             R.string.day16_title,
             R.string.day16_description,
             R.string.day16_reference,
             R.drawable.day16_sharefaith
         ),
         Scripture(
+            17,
             R.string.day17_title,
             R.string.day17_description,
             R.string.day17_reference,
             R.drawable.day17_trust
         ),
         Scripture(
+            18,
             R.string.day18_title,
             R.string.day18_description,
             R.string.day18_reference,
             R.drawable.day18_son
         ),
         Scripture(
+            19,
             R.string.day19_title,
             R.string.day19_description,
             R.string.day19_reference,
             R.drawable.day19_glory
         ),
         Scripture(
+            20,
             R.string.day20_title,
             R.string.day20_description,
             R.string.day20_reference,
             R.drawable.day20_cross
         ),
         Scripture(
+            21,
             R.string.day21_title,
             R.string.day21_description,
             R.string.day21_reference,
             R.drawable.day21_lamp
         ),
         Scripture(
+            22,
             R.string.day22_title,
             R.string.day22_description,
             R.string.day22_reference,
             R.drawable.day22_faithful
         ),
         Scripture(
+            23,
             R.string.day23_title,
             R.string.day23_description,
             R.string.day23_reference,
             R.drawable.day23_pray
         ),
         Scripture(
+            24,
             R.string.day24_title,
             R.string.day24_description,
             R.string.day24_reference,
             R.drawable.day24_open_with_highlighter
         ),
         Scripture(
+            25,
             R.string.day25_title,
             R.string.day25_description,
             R.string.day25_reference,
             R.drawable.day25_open_right_view
         ),
         Scripture(
+            26,
             R.string.day26_title,
             R.string.day26_description,
             R.string.day26_reference,
             R.drawable.day26_heaven
         ),
         Scripture(
+            27,
             R.string.day27_title,
             R.string.day27_description,
             R.string.day27_reference,
             R.drawable.day27_shepherd
         ),
         Scripture(
+            28,
             R.string.day28_title,
             R.string.day28_description,
             R.string.day28_reference,
             R.drawable.day28_road
         ),
         Scripture(
+            29,
             R.string.day29_title,
             R.string.day29_description,
             R.string.day29_reference,
             R.drawable.day29_redeemed
         ),
         Scripture(
+            30,
             R.string.day30_title,
             R.string.day30_description,
             R.string.day30_reference,
