@@ -36,7 +36,7 @@ val ScriptureTypography = Typography(
     titleLarge = TextStyle(
         fontFamily = Merriweather,
         fontWeight = FontWeight.ExtraBold,
-        fontSize = 48.sp,
+        fontSize = 28.sp,
         letterSpacing = (-0.025).sp,
         lineHeight = 48.sp // Adjust based on design
     ),
@@ -44,7 +44,7 @@ val ScriptureTypography = Typography(
     bodyLarge = TextStyle(
         fontFamily = Lato,
         fontWeight = FontWeight.Normal,
-        fontSize = 18.sp,
+        fontSize = 12.sp,
         color = TextMutedColor
     ),
     // Card: Day
