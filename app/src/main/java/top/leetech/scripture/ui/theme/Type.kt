@@ -44,7 +44,7 @@ val ScriptureTypography = Typography(
     bodyLarge = TextStyle(
         fontFamily = Lato,
         fontWeight = FontWeight.Normal,
-        fontSize = 12.sp,
+        fontSize = 16.sp,
         color = TextMutedColor
     ),
     // Card: Day
